@@ -1,0 +1,27 @@
+Ableton Live 12 Suite,DAW,Ableton,749,daw;live performance;electronic music;session view;max for live;beginner-friendly
+FL Studio Producer Edition,DAW,Image-Line,299,daw;hip hop;edm;pattern-based;piano roll;lifetime free updates
+Logic Pro X,DAW,Apple,199,daw;mac only;great value;stock plugins;film scoring;songwriter
+Reaper,DAW,Cockos,60,daw;customizable;lightweight;low cost;powerful;audio engineering
+Serum,Synth,Xfer Records,189,synth;wavetable;edm;sound design;visual;powerful;bass music
+Vital,Synth,Matt Tytel,0,synth;wavetable;free;powerful;visual;serum alternative
+Diva,Synth,u-he,179,synth;analog emulation;warm;vintage;cpu-heavy;cinematic
+Pigments,Synth,Arturia,199,synth;wavetable;analog;sampler;fm;versatile;modulation
+TAL-U-NO-LX,Synth,Togu Audio Line,70,synth;analog emulation;juno-60;vintage;simple;warm;80s
+FabFilter Pro-Q 3,EQ,FabFilter,199,eq;mixing;mastering;surgical;dynamic eq;high quality;transparent
+TDR Nova,EQ,Tokyo Dawn Records,0,eq;free;dynamic eq;mixing;mastering;parallel
+FabFilter Pro-C 2,Compressor,FabFilter,199,compressor;mixing;transparent;versatile;visual
+OTT,Compressor,Xfer Records,0,compressor;free;multiband;aggressive;edm;sound design;bass music
+Klanghelm DC1A3,Compressor,Klanghelm,0,compressor;free;character;simple;mixing;vocals
+Valhalla VintageVerb,Reverb,Valhalla DSP,50,reverb;vintage;lexicon;warm;algorithmic;affordable;lush
+Valhalla Supermassive,Reverb,Valhalla DSP,0,reverb;free;delay;ambient;lush;creative;sound design
+Soundtoys Decapitator,Saturation,Soundtoys,199,saturation;distortion;analog;character;mixing;aggressive
+FabFilter Saturn 2,Saturation,FabFilter,159,saturation;multiband;distortion;character;sound design;mixing
+Softube Saturation Knob,Saturation,Softube,0,saturation;free;simple;one knob;character;mixing
+Soundtoys EchoBoy,Delay,Soundtoys,199,delay;echo;vintage;analog emulation;character;versatile
+Cableguys ShaperBox 3,Multi-FX,Cableguys,99,multi-fx;rhythm;sound design;modulation;sidechain;stutter
+iZotope Vinyl,Lo-Fi,iZotope,0,lo-fi;free;vinyl;character;vintage;crackle
+Output Portal,Granular FX,Output,149,granular;sound design;creative;fx;weird;modern
+iZotope Ozone 11 Standard,Mastering Suite,iZotope,249,mastering;ai;limiter;eq;imager;all-in-one
+FabFilter Pro-L 2,Limiter,FabFilter,199,limiter;mastering;loudness;transparent;true peak
+Native Instruments Kontakt 7,Sampler,Native Instruments,299,sampler;sample player;cinematic;orchestral;industry standard
+Decent Sampler,Sampler,Decent Samples,0,sampler;free;sample player;community;lightweight
