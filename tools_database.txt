@@ -2,26 +2,179 @@ Ableton Live 12 Suite,DAW,Ableton,749,daw;live performance;electronic music;sess
 FL Studio Producer Edition,DAW,Image-Line,299,daw;hip hop;edm;pattern-based;piano roll;lifetime free updates
 Logic Pro X,DAW,Apple,199,daw;mac only;great value;stock plugins;film scoring;songwriter
 Reaper,DAW,Cockos,60,daw;customizable;lightweight;low cost;powerful;audio engineering
+Bitwig Studio,DAW,Bitwig,399,daw;modular;sound design;creative;modulation
+Studio One Professional,DAW,PreSonus,399,daw;songwriter;mixing;drag-and-drop;workflow
+Cubase Pro,DAW,Steinberg,579,daw;midi;film scoring;vst;industry standard
+Cakewalk by Bandlab,DAW,Bandlab,0,daw;free;windows only;professional;value
+LUNA,DAW,Universal Audio,0,daw;free;uad;apollo;analog emulation;summing
+Reason,DAW,Reason Studios,499,daw;rack;creative;sound design;synth
+Ardour,DAW,Ardour Community,1,daw;open-source;linux;mixing;recording
+MPC Software,DAW,AKAI Professional,199,daw;mpc;hip hop;sampling;beatmaking
+Digital Performer,DAW,MOTU,499,daw;film scoring;midi;audio engineering;mac
+Samplitude Pro X,DAW,Magix,399,daw;mastering;mixing;audio restoration;windows
+Mixbus,DAW,Harrison Consoles,80,daw;analog emulation;mixing;console;warm
 Serum,Synth,Xfer Records,189,synth;wavetable;edm;sound design;visual;powerful;bass music
 Vital,Synth,Matt Tytel,0,synth;wavetable;free;powerful;visual;serum alternative
 Diva,Synth,u-he,179,synth;analog emulation;warm;vintage;cpu-heavy;cinematic
 Pigments,Synth,Arturia,199,synth;wavetable;analog;sampler;fm;versatile;modulation
 TAL-U-NO-LX,Synth,Togu Audio Line,70,synth;analog emulation;juno-60;vintage;simple;warm;80s
+Omnisphere,Synth,Spectrasonics,499,synth;powerful;soundscape;cinematic;huge library
+Massive X,Synth,Native Instruments,199,synth;wavetable;bass music;sound design;modern
+Surge XT,Synth,Surge Synth Team,0,synth;free;open-source;powerful;versatile;mpe
+Arturia V Collection,Synth,Arturia,599,synth;bundle;vintage;analog emulation;value
+Sylenth1,Synth,LennarDigital,139,synth;trance;edm;classic;warm;cpu-friendly
+Phase Plant,Synth,Kilohearts,199,synth;modular;sound design;semi-modular;powerful
+Spire,Synth,Reveal Sound,189,synth;trance;edm;modern;cpu-friendly
+Falcon,Synth,UVI,349,synth;hybrid;sampler;powerful;sound design
+Zebra2,Synth,u-he,199,synth;modular;sound design;cinematic;powerful
+Repro,Synth,u-he,149,synth;prophet;vintage;analog emulation;warm
+Helm,Synth,Matt Tytel,0,synth;free;simple;visual;beginner-friendly
+Dexed,Synth,Digital Suburban,0,synth;free;fm;dx7;80s;classic
+OB-Xd,Synth,discoDSP,0,synth;free;oberheim;vintage;analog emulation;warm
+Korg Collection,Synth,Korg,399,synth;bundle;korg;vintage;classic;ms-20
+Roland Cloud Legendary,Synth,Roland,199,synth;subscription;jupiter-8;juno-106;tr-808;classic
+Cherry Audio DCO-106,Synth,Cherry Audio,25,synth;juno-106;vintage;analog emulation;value
+GForce Oberheim OB-E,Synth,GForce Software,149,synth;oberheim;8-voice;vintage;soundscape
+u-he Hive 2,Synth,u-he,149,synth;wavetable;cpu-friendly;modern;trance
+KV331 Audio SynthMaster 2,Synth,KV331 Audio,99,synth;versatile;semi-modular;wavetable;analog
+Tracktion Novum,Synth,Tracktion,179,synth;granular;sound design;creative;sampler
 FabFilter Pro-Q 3,EQ,FabFilter,199,eq;mixing;mastering;surgical;dynamic eq;high quality;transparent
 TDR Nova,EQ,Tokyo Dawn Records,0,eq;free;dynamic eq;mixing;mastering;parallel
+Sonible smart:EQ 3,EQ,Sonible,129,eq;ai;mixing;intelligent;fast
+MAAG EQ4,EQ,Plugin Alliance,229,eq;character;air band;musical;vocals
+Pultec EQP-1A,EQ,Universal Audio,299,eq;pultec;vintage;character;warm;musical
+SSL E-Channel,EQ,Waves,99,eq;ssl;channel strip;punchy;mixing;character
+API 550,EQ,Universal Audio,299,eq;api;proportional q;punchy;character;mixing
+Soothe2,EQ,Oeksound,219,eq;dynamic resonance suppressor;harshness;vocals;mixing
+Gullfoss,EQ,Soundtheory,199,eq;intelligent;dynamic;mastering;mixing
+Kirchhoff-EQ,EQ,Three-Body Technology,249,eq;surgical;dynamic eq;vintage;versatile
+Neve 1073,EQ,Universal Audio,299,eq;neve;preamp;character;warm;vintage
+Waves API 550A / 550B,EQ,Waves,59,eq;api;proportional q;punchy;character
+TDR VOS SlickEQ,EQ,Tokyo Dawn Records,0,eq;free;character;mixing;musical
+MEqualizer,EQ,MeldaProduction,0,eq;free;linear-phase;analyzer;versatile
+The Glue,Compressor,Cytomic,99,compressor;ssl;bus compressor;punchy;mixing
+LA-2A Collection,Compressor,Universal Audio,299,compressor;optical;vocals;smooth;vintage
+1176 Classic Limiter Collection,Compressor,Universal Audio,299,compressor;fet;aggressive;drums;vocals
 FabFilter Pro-C 2,Compressor,FabFilter,199,compressor;mixing;transparent;versatile;visual
 OTT,Compressor,Xfer Records,0,compressor;free;multiband;aggressive;edm;sound design;bass music
 Klanghelm DC1A3,Compressor,Klanghelm,0,compressor;free;character;simple;mixing;vocals
+API 2500,Compressor,Universal Audio,299,compressor;api;bus compressor;punchy;versatile
+Fairchild 670,Compressor,Universal Audio,299,compressor;tube;vintage;mastering;warm
+Shadow Hills Mastering Compressor,Compressor,Plugin Alliance,329,compressor;mastering;versatile;clean;punchy
+Empirical Labs Distressor,Compressor,Universal Audio,299,compressor;versatile;aggressive;character;drums
+Kush Audio AR-1,Compressor,Kush Audio,149,compressor;tube;vintage;character;warm
+TDR Kotelnikov,Compressor,Tokyo Dawn Records,0,compressor;free;mastering;transparent;clean
+Waves CLA-76,Compressor,Waves,99,compressor;1176;fet;aggressive;drums;vocals
+Softube Tube-Tech CL 1B,Compressor,Softube,199,compressor;tube;optical;vocals;smooth
+MJUC,Compressor,Klanghelm,24,compressor;vari-mu;tube;character;value
+Presswerk,Compressor,u-he,129,compressor;versatile;character;analog emulation
 Valhalla VintageVerb,Reverb,Valhalla DSP,50,reverb;vintage;lexicon;warm;algorithmic;affordable;lush
 Valhalla Supermassive,Reverb,Valhalla DSP,0,reverb;free;delay;ambient;lush;creative;sound design
+Valhalla Shimmer,Reverb,Valhalla DSP,50,reverb;shimmer;ambient;ethereal;sound design
+Arturia Rev PLATE-140,Reverb,Arturia,99,reverb;plate;vintage;warm;vocals
+Lexicon PCM Native Reverb Bundle,Reverb,Lexicon,599,reverb;lexicon;hall;room;studio standard
+Eventide Blackhole,Reverb,Eventide,199,reverb;ambient;sound design;huge;ethereal
+FabFilter Pro-R,Reverb,FabFilter,199,reverb;algorithmic;natural;mixing;clean
+LiquidSonics Cinematic Rooms,Reverb,LiquidSonics,399,reverb;cinematic;surround;professional;sound design
+OrilRiver,Reverb,Denis Tihanov,0,reverb;free;algorithmic;hall;plate
+Baby Audio Crystalline,Reverb,Baby Audio,99,reverb;modern;algorithmic;creative;shimmer
+Exponential Audio PhoenixVerb,Reverb,iZotope,199,reverb;natural;clean;mixing;algorithmic
+TAL-Reverb-4,Reverb,Togu Audio Line,0,reverb;free;80s;plate;vintage;simple
 Soundtoys Decapitator,Saturation,Soundtoys,199,saturation;distortion;analog;character;mixing;aggressive
 FabFilter Saturn 2,Saturation,FabFilter,159,saturation;multiband;distortion;character;sound design;mixing
 Softube Saturation Knob,Saturation,Softube,0,saturation;free;simple;one knob;character;mixing
+iZotope Trash 2,Saturation,iZotope,99,saturation;distortion;multiband;sound design;extreme
+CamelCrusher,Saturation,Camel Audio,0,saturation;free;distortion;compressor;filter;classic
+Kush Audio Omega Transformer,Saturation,Kush Audio,29,saturation;transformer;character;subtle;warm
+Black Box Analog Design HG-2MS,Saturation,Plugin Alliance,249,saturation;tube;pentode;triode;mastering;warm
+Radiator,Saturation,Soundtoys,129,saturation;preamp;character;vintage;mixing
+SDRR,Saturation,Klanghelm,23,saturation;tube;tape;desk;transformer;versatile
+Devilocitor,Saturation,Soundtoys,119,saturation;aggressive;distortion;drums;character
 Soundtoys EchoBoy,Delay,Soundtoys,199,delay;echo;vintage;analog emulation;character;versatile
+Valhalla Delay,Delay,Valhalla DSP,50,delay;versatile;tape;digital;pitch shifting;creative
+FabFilter Timeless 3,Delay,FabFilter,129,delay;tape;creative;modulation;sound design
+Kilohearts Delay,Delay,Kilohearts,0,delay;free;simple;effective;utility
+Soundtoys PrimalTap,Delay,Soundtoys,99,delay;vintage;lo-fi;degrade;character
+Eventide H3000 Factory,Multi-FX,Eventide,349,multi-fx;h3000;pitch shifting;classic;creative
+Replika XT,Delay,Native Instruments,99,delay;versatile;diffusion;modern;creative
+Comeback Kid,Delay,Baby Audio,49,delay;creative;character;ducking;modern
+Waves H-Delay,Delay,Waves,49,delay;vintage;analog;lo-fi;simple
+UVI Relayer,Delay,UVI,129,delay;multi-tap;creative;sequencer;sound design
 Cableguys ShaperBox 3,Multi-FX,Cableguys,99,multi-fx;rhythm;sound design;modulation;sidechain;stutter
+iZotope Neutron 4,Multi-FX,iZotope,249,multi-fx;mixing;ai;channel strip;intelligent
+Arturia FX Collection,Multi-FX,Arturia,499,multi-fx;vintage;bundle;analog emulation;value
+Kilohearts Essentials,Multi-FX,Kilohearts,0,multi-fx;free;bundle;utility;simple
+Soundtoys Effect Rack,Multi-FX,Soundtoys,299,multi-fx;bundle;creative;character;mixing
+FabFilter Volcano 3,Filter,FabFilter,129,filter;creative;modulation;sound design
+Output Thermal,Multi-FX,Output,149,multi-fx;distortion;interactive;sound design;modern
+Infiltrator,Multi-FX,Devious Machines,119,multi-fx;sequencer;creative;sound design;modulation
+Slate Digital Virtual Mix Rack,Multi-FX,Slate Digital,149,multi-fx;channel strip;500 series;analog emulation;mixing
+Glitch 2,Multi-FX,Illformed,50,multi-fx;stutter;glitch;sequencer;creative
 iZotope Vinyl,Lo-Fi,iZotope,0,lo-fi;free;vinyl;character;vintage;crackle
+RC-20 Retro Color,Lo-Fi,XLN Audio,99,lo-fi;vintage;tape;vinyl;character;color
+SketchCassette II,Lo-Fi,Aberrant DSP,30,lo-fi;tape;cassette;saturation;character
+Valhalla FreqEcho,Delay,Valhalla DSP,0,delay;free;frequency shifter;dub;creative;sound design
+Goodhertz Vulf Compressor,Lo-Fi,Goodhertz,149,lo-fi;compressor;vinyl;character;funky
+Baby Audio Super VHS,Lo-Fi,Baby Audio,49,lo-fi;vhs;80s;character;chorus
+Tritik Krush,Lo-Fi,Tritik,0,lo-fi;free;bitcrusher;distortion;filter
+Izotope Ozone Imager,Utility,iZotope,0,utility;free;stereo width;vectorscope;imaging
 Output Portal,Granular FX,Output,149,granular;sound design;creative;fx;weird;modern
-iZotope Ozone 11 Standard,Mastering Suite,iZotope,249,mastering;ai;limiter;eq;imager;all-in-one
+iZotope Ozone 11 Advanced,Mastering Suite,iZotope,499,mastering;ai;limiter;eq;imager;all-in-one
 FabFilter Pro-L 2,Limiter,FabFilter,199,limiter;mastering;loudness;transparent;true peak
+Youlean Loudness Meter,Utility,Youlean,0,utility;free;metering;loudness;mastering;streaming
+Sonnox Oxford Limiter,Limiter,Sonnox,245,limiter;mastering;loudness;enhance;transparent
+Weiss DS1-MK3,Mastering Suite,Softube,549,mastering;compressor;limiter;de-esser;legendary
+T-Racks 5 MAX,Mastering Suite,IK Multimedia,299,mastering;bundle;analog emulation;value
+iZotope Tonal Balance Control 2,Utility,iZotope,199,utility;mastering;balancing;referencing;ai
+Newfangled Audio Elevate,Limiter,Newfangled Audio,199,limiter;mastering;clipper;transient;human ear eq
 Native Instruments Kontakt 7,Sampler,Native Instruments,299,sampler;sample player;cinematic;orchestral;industry standard
 Decent Sampler,Sampler,Decent Samples,0,sampler;free;sample player;community;lightweight
+Spitfire Audio LABS,Sampler,Spitfire Audio,0,sampler;free;orchestral;piano;strings;character
+TAL Sampler,Sampler,Togu Audio Line,60,sampler;vintage;dac emulation;character;simple
+Serato Sample,Sampler,Serato,99,sampler;hip hop;sampling;pitch shifting;workflow
+Arturia CMI V,Sampler,Arturia,199,sampler;fairlight;vintage;80s;sound design
+Morgana,Sampler,112dB,49,sampler;vintage;ensoniq mirage;lo-fi;character
+Celemony Melodyne 5 Editor,Utility,Celemony,399,utility;pitch correction;vocals;tuning;polyphonic
+Antares Auto-Tune Pro,Utility,Antares,399,utility;pitch correction;vocals;auto-tune;real-time
+iZotope RX 10 Standard,Utility,iZotope,399,utility;audio repair;noise reduction;dialogue;post-production
+Metric AB,Utility,Plugin Alliance,199,utility;metering;referencing;a-b testing;mastering
+Reference 2,Utility,Mastering The Mix,59,utility;referencing;mixing;mastering
+SPAN,Utility,Voxengo,0,utility;free;spectrum analyzer;metering;mixing
+Synchro Arts VocAlign Ultra,Vocal Processing,Synchro Arts,399,vocals;alignment;timing;doubling;harmonies
+iZotope Nectar 3 Plus,Vocal Processing,iZotope,249,vocals;channel strip;mixing;ai;pitch correction
+Waves Tune Real-Time,Vocal Processing,Waves,79,vocals;pitch correction;real-time;live
+FabFilter Pro-DS,Vocal Processing,FabFilter,179,de-esser;vocals;transparent;sibilance
+Neural DSP Archetype: Plini,Guitar Amp,Neural DSP,119,guitar;amp sim;modern;progressive metal;djent
+Amplitube 5 MAX,Guitar Amp,IK Multimedia,299,guitar;amp sim;bass;versatile;fender;marshall
+Guitar Rig 7 Pro,Guitar Amp,Native Instruments,199,guitar;amp sim;creative;fx;bass;sound design
+Positive Grid BIAS FX 2,Guitar Amp,Positive Grid,119,guitar;amp sim;tone matching;versatile;modern
+STL ToneHub,Guitar Amp,STL Tones,199,guitar;amp sim;kemper;producer presets;modern
+Kuassa Amplifikation 360,Guitar Amp,Kuassa,149,guitar;amp sim;bundle;value;versatile
+Softube Amp Room,Guitar Amp,Softube,149,guitar;amp sim;bass;mixing;console
+Mercuriall Spark,Guitar Amp,Mercuriall,120,guitar;amp sim;marshall;high-gain;metal
+Addictive Drums 2,Drum Machine,XLN Audio,149,drum machine;acoustic;realistic;mixing;patterns
+Battery 4,Drum Machine,Native Instruments,199,drum machine;sampler;electronic;sound design;workflow
+Output Arcade,Drum Machine,Output,10,drum machine;sampler;subscription;loops;creative
+GetGood Drums,Drum Machine,GetGood Drums,99,drum machine;metal;rock;realistic;mixing
+Superior Drummer 3,Drum Machine,Toontrack,399,drum machine;acoustic;professional;mixing;huge library
+Arturia Spark 2,Drum Machine,Arturia,149,drum machine;vintage;analog emulation;sequencer;creative
+XO,Drum Machine,XLN Audio,179,drum machine;sampler;browser;ai;workflow
+Geist2,Drum Machine,FXpansion,199,drum machine;sampler;slicer;sequencer;workflow
+Punchbox,Drum Machine,D16 Group,79,drum machine;kick;bass drum;synthesis;sampler
+Keyscape,Virtual Instrument,Spectrasonics,399,virtual instrument;keyboards;piano;electric piano;collectors
+Addictive Keys,Virtual Instrument,XLN Audio,79,virtual instrument;piano;upright;electric piano;value
+Native Instruments Noire,Virtual Instrument,Native Instruments,149,virtual instrument;piano;felt;cinematic;character
+Spitfire Audio BBC Symphony Orchestra Discover,Virtual Instrument,Spitfire Audio,0,virtual instrument;free;orchestral;beginner-friendly;lightweight
+Trilian,Virtual Instrument,Spectrasonics,299,virtual instrument;bass;acoustic;electric;synth bass;powerful
+Arturia Analog Lab V,Virtual Instrument,Arturia,199,virtual instrument;bundle;synth;presets;value
+Output Exhale,Virtual Instrument,Output,199,virtual instrument;vocals;sampler;creative;modern
+EastWest Hollywood Orchestra,Virtual Instrument,EastWest,499,virtual instrument;orchestral;cinematic;professional;epic
+Pianoteq,Virtual Instrument,Modartt,129,virtual instrument;piano;modeled;lightweight;versatile
+Lounge Lizard EP-4,Virtual Instrument,AAS,199,virtual instrument;electric piano;rhodes;wurlitzer;modeled
+Strum GS-2,Virtual Instrument,AAS,199,virtual instrument;guitar;acoustic;electric;modeled
+Toontrack EZdrummer 3,Drum Machine,Toontrack,179,drum machine;acoustic;songwriter;patterns;beginner-friendly
+Toontrack EZbass,Virtual Instrument,Toontrack,179,virtual instrument;bass;electric;patterns;songwriter
+Xfer Records Cthulhu,Midi Tool,Xfer Records,39,midi;chords;arpeggiator;songwriter;creative
+Scaler 2,Midi Tool,Plugin Boutique,59,midi;chords;music theory;songwriter;scales
+Captain Chords Epic,Midi Tool,Mixed In Key,99,midi;chords;melody;bassline;songwriter
+Stochastic Inspiration,Midi Tool,Monoplugs,0,midi;free;sequencer;generative;random
